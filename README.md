@@ -21,7 +21,7 @@ Hello! <br/>
   <img height="100%" width="100%" align="center" src="./preview/Preview2.png" alt="ParagKale09" />
    <br/>
 
-   4 - When all the birthday wishes are sent the page will look like this.<br/>
+   4 - When all the birthday wishes are sent the page will look like this. <br/>
     <br/>
   <img height="100%" width="100%" align="center" src="./preview/Preview3.png" alt="ParagKale09" />
    <br/>
